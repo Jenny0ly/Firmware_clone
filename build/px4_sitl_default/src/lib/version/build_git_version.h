@@ -1,0 +1,15 @@
+
+/* Auto Magically Generated file */
+/* Do not edit! */
+#pragma once
+
+#define PX4_GIT_VERSION_STR  "86bf4b2289c1630833c920c84dfc95a82e2ac6b5"
+#define PX4_GIT_VERSION_BINARY 0x86bf4b2289c16308
+#define PX4_GIT_TAG_STR  "v1.11.0-beta1-565-g86bf4b2289"
+#define PX4_GIT_BRANCH_NAME  "master"
+
+#define ECL_LIB_GIT_VERSION_STR  "05d391c7852c3591b606af9ae78301eff933eacc"
+#define ECL_LIB_GIT_VERSION_BINARY 0x05d391c7852c3591
+
+#define MAVLINK_LIB_GIT_VERSION_STR  "1847cbbff5863db71bf7e3de8c5e8136da784152"
+#define MAVLINK_LIB_GIT_VERSION_BINARY 0x1847cbbff5863db7
